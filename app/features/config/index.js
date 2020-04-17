@@ -24,7 +24,7 @@ export default {
     /**
      * The default server URL of Jitsi Meet Deployment that will be used.
      */
-    defaultServerURL: 'https://meet.ffmuc.net',
+    defaultServerURL: 'https://meet.nerd.re',
 
     /**
      * URL to send feedback.
